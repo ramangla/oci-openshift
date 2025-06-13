@@ -1,7 +1,5 @@
 # OpenShift on OCI (OSO)
 
-Testing-ragini-123
-
 This repository provides the tools and configuration needed to deploy and manage Red Hat OpenShift Container Platform clusters on Oracle Cloud Infrastructure (OCI). It includes:
 * [Terraform stacks](/terraform-stacks/README.md) for provisioning the required OCI infrastructure.
 * OpenShift and Kubernetes [manifest files](/custom_manifests/README.md) for installing and configuring clusters.
